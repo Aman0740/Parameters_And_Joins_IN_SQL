@@ -1,6 +1,6 @@
 # Parameters_And_Joins_IN_SQL
 
-#PARAMETER'S
+# PARAMETER'S
 
 In SQL, parameters are used in various contexts to define, filter, and manipulate data. Below is an explanation of **all key parameters** that you might encounter when working with SQL:
 
